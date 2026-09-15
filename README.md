@@ -1,3 +1,3 @@
-# my-2nd-project
-Ai COMBI &amp; AiLoveU 
-Gemini + Copilot = CPLX-3 
+# AI-ASTRA
+## Ai-Combi
+### Gemini + Copilot = CPLX_3Flash
